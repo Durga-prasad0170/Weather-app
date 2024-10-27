@@ -4,6 +4,8 @@ body{
     background-color: rgb(60, 60, 60);
     font-family: "Poppins",sans-serif;
     box-sizing: border-box;
+    height:100vh;
+    width:100%;
     background:linear-gradient(135deg,rgba(55, 255, 55, 0.696),rgba(64, 214, 255, 0.613),rgba(158, 79, 255, 0.696),rgba(53, 53, 255, 0.667),rgba(255, 186, 58, 0.629)) ;
 }
 h1{
