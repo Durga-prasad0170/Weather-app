@@ -144,6 +144,9 @@ h1{
         height: 100px;
         object-fit: fill;
     }
+    h1{
+        margin-botttom:10px;
+    }
     .temp{
         font-size: 40px;
     }
